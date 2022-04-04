@@ -765,6 +765,3 @@ Umbraco.Forms.Core.Providers.WorkflowTypes.SendXsltEmail, Umbraco.Forms.Core.Pro
 Umbraco.Forms.Core.Providers.WorkflowTypes.Slack, Umbraco.Forms.Core.Providers, Version=8.11.0.0, Culture=neutral, PublicKeyToken=null
 Umbraco.Forms.Core.Providers.WorkflowTypes.SlackV2, Umbraco.Forms.Core.Providers, Version=8.11.0.0, Culture=neutral, PublicKeyToken=null
 
-Umbraco.Core.Deploy.IServiceConnector
-
-
