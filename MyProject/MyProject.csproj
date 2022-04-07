@@ -8,11 +8,15 @@
       <Content Include="App_Plugins\CustomWelcomeDashboard\customwelcomedashboard.css" />
       <Content Include="App_Plugins\CustomWelcomeDashboard\Lang\en-US.xml" />
       <Content Include="App_Plugins\CustomWelcomeDashboard\WelcomeDashboard.html" />
+      <Content Include="App_Plugins\Suggestions\suggestion.css" />
+      <Content Include="App_Plugins\Suggestions\suggestion.html" />
     </ItemGroup>
 
     <ItemGroup>
       <None Include="App_Plugins\CustomWelcomeDashboard\customwelcomedashboard.controller.js" />
       <None Include="App_Plugins\CustomWelcomeDashboard\package.manifest" />
+      <None Include="App_Plugins\Suggestions\package.manifest" />
+      <None Include="App_Plugins\Suggestions\suggestion.controller.js" />
     </ItemGroup>
 
     <ItemGroup>
